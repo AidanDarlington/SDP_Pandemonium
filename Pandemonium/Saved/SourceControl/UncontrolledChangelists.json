@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/jennylim/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/StarterContent/Maps/StarterMap_BuiltData.uasset",
+				"/Users/jennylim/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"/Users/jennylim/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"/Users/jennylim/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/GameMenus/PauseMenu/SaveMenu_WB.uasset"
+			]
+		}
+	]
+}
