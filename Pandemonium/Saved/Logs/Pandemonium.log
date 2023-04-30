@@ -2485,3 +2485,37 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2023.04.30-10.55.58:199][561]LogPlayLevel: Display: Destroying online subsystem :Context_25
 [2023.04.30-10.56.16:950][803]BlueprintLog: New page: Compile BP_FirstPersonCharacter
 [2023.04.30-10.56.17:172][803]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2023.04.30-11.02.13:914][760]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.04.30-11.02.13:914][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.30-11.02.13:939][760]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.04.30-11.02.13:939][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.30-11.02.29:547][962]LogShaderCompilers: Display: ================================================
+[2023.04.30-11.02.29:547][962]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.30-11.02.29:547][962]LogShaderCompilers: Display: Total job queries 173, among them cache hits 29 (16.76%)
+[2023.04.30-11.02.29:547][962]LogShaderCompilers: Display: Tracking 144 distinct input hashes that result in 112 distinct outputs (77.78%)
+[2023.04.30-11.02.29:547][962]LogShaderCompilers: Display: RAM used: 1.18 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.14%
+[2023.04.30-11.02.29:547][962]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.30-11.02.29:547][962]LogShaderCompilers: Display: Shaders Compiled: 9
+[2023.04.30-11.02.29:547][962]LogShaderCompilers: Display: Jobs assigned 9, completed 9 (100.00%)
+[2023.04.30-11.02.29:547][962]LogShaderCompilers: Display: Average time worker was idle: 0.50 s
+[2023.04.30-11.02.29:547][962]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.06 s
+[2023.04.30-11.02.29:547][962]LogShaderCompilers: Display: Job execution time: average 1.22 s, max 1.88 s
+[2023.04.30-11.02.29:547][962]LogShaderCompilers: Display: Job life time (pending + execution): average 1.27 s, max 1.94
+[2023.04.30-11.02.29:547][962]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.01 s
+[2023.04.30-11.02.29:547][962]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.30-11.02.29:548][962]LogShaderCompilers: Display: Average processing rate: 2.99 jobs/sec
+[2023.04.30-11.02.29:548][962]LogShaderCompilers: Display: Total thread time: 6.32 s
+[2023.04.30-11.02.29:548][962]LogShaderCompilers: Display: Total thread preprocess time: 0.47 s
+[2023.04.30-11.02.29:548][962]LogShaderCompilers: Display: Percentage time preprocessing: 7.41%
+[2023.04.30-11.02.29:548][962]LogShaderCompilers: Display: Effective parallelization: 2.10 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2023.04.30-11.02.29:548][962]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2023.04.30-11.02.29:548][962]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 1.01 sec, max 1.08 sec, min 0.95 sec)
+[2023.04.30-11.02.29:548][962]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.84 sec, max 0.85 sec, min 0.82 sec)
+[2023.04.30-11.02.29:548][962]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.75 sec, max 0.77 sec, min 0.73 sec)
+[2023.04.30-11.02.29:548][962]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.56 sec, max 0.58 sec, min 0.54 sec)
+[2023.04.30-11.02.29:548][962]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2023.04.30-11.02.29:548][962]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 32.10% of total time (compiled    2 times, average 1.01 sec, max 1.08 sec, min 0.95 sec)
+[2023.04.30-11.02.29:548][962]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 26.45% of total time (compiled    2 times, average 0.84 sec, max 0.85 sec, min 0.82 sec)
+[2023.04.30-11.02.29:548][962]LogShaderCompilers: Display:                                                 FLumenCardVS - 23.74% of total time (compiled    2 times, average 0.75 sec, max 0.77 sec, min 0.73 sec)
+[2023.04.30-11.02.29:548][962]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 17.71% of total time (compiled    2 times, average 0.56 sec, max 0.58 sec, min 0.54 sec)
+[2023.04.30-11.02.29:548][962]LogShaderCompilers: Display: ================================================
