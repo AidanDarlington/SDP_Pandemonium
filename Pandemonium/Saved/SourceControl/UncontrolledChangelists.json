@@ -5,9 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/GGPC/SDP_Pandemonium/Pandemonium/Content/HealthBar/Health_Widget.uasset",
 				"C:/Users/GGPC/SDP_Pandemonium/Pandemonium/Content/HealthBar/healthbar_grey.uasset",
 				"C:/Users/GGPC/SDP_Pandemonium/Pandemonium/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/GGPC/SDP_Pandemonium/Pandemonium/Content/HealthBar/healthbar_coloured.uasset",
+				"C:/Users/GGPC/SDP_Pandemonium/Pandemonium/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"C:/Users/GGPC/SDP_Pandemonium/Pandemonium/Content/GameMenus/PauseMenu/PauseMenu_WB.uasset",
+				"C:/Users/GGPC/SDP_Pandemonium/Pandemonium/Content/HealthBar/Health_Widget.uasset",
 				"C:/Users/GGPC/SDP_Pandemonium/Pandemonium/Content/Animations/Health_Widget.uasset"
 			]
 		}
