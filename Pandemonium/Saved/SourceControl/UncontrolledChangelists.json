@@ -8,7 +8,10 @@
 				"/Users/jennylim/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/StarterContent/Maps/StarterMap_BuiltData.uasset",
 				"/Users/jennylim/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
 				"/Users/jennylim/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"/Users/jennylim/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/GameMenus/PauseMenu/SaveMenu_WB.uasset"
+				"/Users/jennylim/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/GameMenus/PauseMenu/SaveMenu_WB.uasset",
+				"/Users/jennylim/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/GameMenus/PauseMenu/test.uasset",
+				"/Users/jennylim/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/GameMenus/PauseMenu/PauseMenu_WB.uasset",
+				"/Users/jennylim/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/Wisp/WispBP/WispStorage_BPC.uasset"
 			]
 		}
 	]
