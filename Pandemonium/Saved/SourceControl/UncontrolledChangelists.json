@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/wjust/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/wjust/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"C:/Users/wjust/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/wjust/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/UI/WBP_Stamina.uasset",
+				"C:/Users/wjust/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
 				"/Users/jennylim/Desktop/SDP_Pandemonium-main/Pandemonium/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"/Users/jennylim/Desktop/SDP_Pandemonium-main/Pandemonium/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/XW/2YT1Z22YQWCZW561R7D4YR.uasset",
 				"/Users/jennylim/Desktop/SDP_Pandemonium-main/Pandemonium/Content/FirstPerson/Maps/_GENERATED/jennylim/Sphere_F829A36B.uasset",
@@ -211,8 +216,7 @@
 				"C:/Users/theha/Desktop/AUT/SDP_Pandemonium/Pandemonium/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/2J/R4MRTH8FEAO7ML1BCJFIZ2.uasset",
 				"C:/Users/theha/Desktop/AUT/SDP_Pandemonium/Pandemonium/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/NB/NWWEVRQSGT6ARVZ8HQLCM9.uasset",
 				"C:/Users/theha/Desktop/AUT/SDP_Pandemonium/Pandemonium/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/7P/QZX5AESKLO855EVPT5JU20.uasset",
-				"C:/Users/theha/Desktop/AUT/SDP_Pandemonium/Pandemonium/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/0M/LYKU8MRWM4BO3O1FDZBG2U.uasset",
-				"C:/Users/wjust/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Users/theha/Desktop/AUT/SDP_Pandemonium/Pandemonium/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/0M/LYKU8MRWM4BO3O1FDZBG2U.uasset"
 			]
 		}
 	]
