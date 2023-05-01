@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/wjust/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/wjust/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"/Users/jennylim/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/GameMenus/PauseMenu/PauseMenu_WB.uasset",
+				"/Users/jennylim/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/GameMenus/PauseMenu/SaveMenu_WB.uasset",
+				"/Users/jennylim/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/socce/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/socce/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/EK/JG1EXOP2I90U1E09I9NFR2.uasset",
 				"C:/Users/socce/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/Fonts/Kenney_Mini.uasset",
@@ -379,8 +384,7 @@
 				"C:/Users/theha/Desktop/AUT/SDP_Pandemonium/Pandemonium/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/IQ/IQ9H4UQU18M9V9BXM2ALRU.uasset",
 				"C:/Users/theha/Desktop/AUT/SDP_Pandemonium/Pandemonium/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/ME/UHB81VQ5A5YOBKFUZV4KZ4.uasset",
 				"C:/Users/theha/Desktop/AUT/SDP_Pandemonium/Pandemonium/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/X2/BQDRZVHZ26TJ7MSZFUWCMP.uasset",
-				"C:/Users/theha/Desktop/AUT/SDP_Pandemonium/Pandemonium/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/PF/6JQTUF4JRNS27PUW129RM7.uasset",
-				"C:/Users/wjust/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Users/theha/Desktop/AUT/SDP_Pandemonium/Pandemonium/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/PF/6JQTUF4JRNS27PUW129RM7.uasset"
 			]
 		}
 	]
