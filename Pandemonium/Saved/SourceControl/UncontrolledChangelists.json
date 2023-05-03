@@ -5,6 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/jennylim/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/StarterContent/Maps/StarterMap_BuiltData.uasset",
+				"/Users/jennylim/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"/Users/jennylim/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"/Users/jennylim/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/GameMenus/PauseMenu/SaveMenu_WB.uasset",
+				"/Users/jennylim/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/UI/WBP_WispCounter.uasset",
+				"/Users/jennylim/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/Wisp/WispBP/WispStorage_BPC.uasset",
+				"/Users/jennylim/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/UI/Wisp_UI/WBP_Stamina.uasset",
+				"/Users/jennylim/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/UI/WBP_Stamina.uasset",
+				"/Users/jennylim/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/UI/Wisp_UI/WBP_WispCounter.uasset",
+				"/Users/jennylim/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/HealthBar/Health_Widget.uasset",
+				"/Users/jennylim/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/InventoryComponent/BP_Item.uasset",
+				"/Users/jennylim/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/UI/Wisp_UI/wispsmall.uasset",
 				"C:/Users/wjust/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/wjust/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/GGPC/SDP_Pandemonium/Pandemonium/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
@@ -39,11 +51,7 @@
 				"C:/Users/GGPC/Pandemonium backup folder/Pandemonium/Content/HealthBar/Health_Widget.uasset",
 				"C:/Users/GGPC/Pandemonium backup folder/Pandemonium/Content/HealthBar/healthbar_coloured.uasset",
 				"C:/Users/GGPC/Pandemonium backup folder/Pandemonium/Content/GameMenus/SaveLoad/Save_BP.uasset",
-				"C:/Users/GGPC/Pandemonium backup folder/Pandemonium/Content/FirstPerson/Blueprints/BPP_GameInstance.uasset",
-				"/Users/jennylim/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/StarterContent/Maps/StarterMap_BuiltData.uasset",
-				"/Users/jennylim/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
-				"/Users/jennylim/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"/Users/jennylim/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/GameMenus/PauseMenu/SaveMenu_WB.uasset"
+				"C:/Users/GGPC/Pandemonium backup folder/Pandemonium/Content/FirstPerson/Blueprints/BPP_GameInstance.uasset"
 			]
 		}
 	]
