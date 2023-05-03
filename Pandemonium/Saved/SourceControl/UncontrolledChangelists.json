@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/wjust/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/wjust/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/wjust/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/UI/WBP_Stamina.uasset",
 				"/Users/jennylim/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/StarterContent/Maps/StarterMap_BuiltData.uasset",
 				"/Users/jennylim/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
 				"/Users/jennylim/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
@@ -17,8 +20,6 @@
 				"/Users/jennylim/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/HealthBar/Health_Widget.uasset",
 				"/Users/jennylim/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/InventoryComponent/BP_Item.uasset",
 				"/Users/jennylim/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/UI/Wisp_UI/wispsmall.uasset",
-				"C:/Users/wjust/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"C:/Users/wjust/Documents/GitHub/SDP_Pandemonium/Pandemonium/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/GGPC/SDP_Pandemonium/Pandemonium/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/GGPC/SDP_Pandemonium/Pandemonium/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
 				"C:/Users/GGPC/SDP_Pandemonium/Pandemonium/Content/GameMenus/PauseMenu/SaveMenu_WB.uasset",
