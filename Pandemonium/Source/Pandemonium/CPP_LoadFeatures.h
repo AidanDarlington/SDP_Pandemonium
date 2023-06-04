@@ -6,8 +6,10 @@
 #include "GameFramework/SaveGame.h"
 #include "GameFramework/Character.h"
 #include "Kismet/GameplayStatics.h"
+#include <iostream>
 #include "CPP_LoadFeatures.generated.h"
 
+using namespace std;
 /**
  *
  */
@@ -16,54 +18,23 @@ class PANDEMONIUM_API UCPP_LoadFeatures : public USaveGame
 {
 	GENERATED_BODY()
 public:
-	//variables from constructor to load the save game
-	UPROPERTY(VisibleAnywhere, Category = "C++LoadCategory")
-		FString SaveSlotName;
-	UPROPERTY(VisibleAnywhere, Category = "C++LoadCategory")
-		uint32 IndexID;
-	UPROPERTY(VisibleAnywhere, Category = "C++LoadCategory")
-		FTransform charTransform;
-	UPROPERTY(VisibleAnywhere, Category = "C++LoadCategory")
-		float playerHealth;
-
-
 
 	//default constructor
 	UCPP_LoadFeatures();
-	//constructor
-	UCPP_LoadFeatures(FString saveSlotName, uint32 indexID);
-	//constructor
-	UCPP_LoadFeatures(ACharacter* firstPersonChar);
+
+	//for converting FString to String
+	void convert_FStringToString(FString SaveSlotName);
 
 	//get player health function
 	UFUNCTION(BlueprintCallable, Category = "C++LoadCategory")
-		static float getPlayerHealth();
+		static float getPlayerHealth(FString SaveSlotName, int IndexID);
 
 	//get flashlight playback position function
 	UFUNCTION(BlueprintCallable, Category = "C++LoadCategory")
-		static float getFlashlightPlaybackPos();
+		static float getFlashlightPlaybackPos(FString SaveSlotName, int IndexID);
 
 	//get number of wisps function
 	UFUNCTION(BlueprintCallable, Category = "C++LoadCategory")
-		static float getNumberOfWisps();
+		static int getNumberOfWisps(FString SaveSlotName, int IndexID);
 
-	//get location of wisps function
-	UFUNCTION(BlueprintCallable, Category = "C++LoadCategory")
-		static float getLocationOfWisps();
-
-	//get transform of entity function
-	UFUNCTION(BlueprintCallable, Category = "C++LoadCategory")
-		static float getEntityTransform();
-
-	//get transform of player function
-	UFUNCTION(BlueprintCallable, Category = "C++LoadCategory")
-		static float getPlayerTransform();
-
-	//get location of healthpacks function
-	UFUNCTION(BlueprintCallable, Category = "C++LoadCategory")
-		static float getLocationOfHealthPacks();
-
-	//get location of batteries function
-	UFUNCTION(BlueprintCallable, Category = "C++LoadCategory")
-		static float getLocationOfBatteries();
 };

@@ -1,0 +1,37 @@
+﻿  Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" PandemoniumEditor Win64 Development -Project="C:\Users\jenny\OneDrive\Documents\GitHub\SDP_Pandemonium\Pandemonium\Pandemonium.uproject" -WaitMutex -FromMsBuild
+  Log file: C:\Users\jenny\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\jenny\OneDrive\Documents\GitHub\SDP_Pandemonium).
+  Creating makefile for PandemoniumEditor (no existing makefile)
+  Parsing headers for PandemoniumEditor
+    Running Internal UnrealHeaderTool C:\Users\jenny\OneDrive\Documents\GitHub\SDP_Pandemonium\Pandemonium\Pandemonium.uproject C:\Users\jenny\OneDrive\Documents\GitHub\SDP_Pandemonium\Pandemonium\Intermediate\Build\Win64\PandemoniumEditor\Development\PandemoniumEditor.uhtmanifest -WarningsAsErrors -installed
+  Total of 4 written
+  Reflection code generated for PandemoniumEditor in 0.6477266 seconds
+  Building PandemoniumEditor...
+  Using Visual Studio 2019 14.29.30148 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Upgrade]
+  [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+  [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_0
+  [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_1;' in PandemoniumEditor.Target.cs.
+  [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+  [Upgrade]
+  Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+    Executing up to 6 processes, one per physical core
+    Requested 1.5 GB free memory per action, 5 GB available: limiting max parallel actions to 3
+  Building 10 actions with 3 processes...
+  [1/10] Resource Default.rc2
+  [2/10] Compile SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.cpp
+  [3/10] Compile Pandemonium.init.gen.cpp
+  [4/10] Compile CPP_PlayerLocationSave.cpp
+  [5/10] Compile CPP_LoadFeatures.gen.cpp
+  [6/10] Compile CPP_LoadFeatures.cpp
+C:\Users\jenny\OneDrive\Documents\GitHub\SDP_Pandemonium\Pandemonium\Source\Pandemonium\CPP_LoadFeatures.cpp(34): warning C4996: 'FProperty::ExportTextItem': Please use ExportTextItem_InContainer or ExportTextItem_Direct instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+C:\Users\jenny\OneDrive\Documents\GitHub\SDP_Pandemonium\Pandemonium\Source\Pandemonium\CPP_LoadFeatures.cpp(62): warning C4996: 'FProperty::ExportTextItem': Please use ExportTextItem_InContainer or ExportTextItem_Direct instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+C:\Users\jenny\OneDrive\Documents\GitHub\SDP_Pandemonium\Pandemonium\Source\Pandemonium\CPP_LoadFeatures.cpp(89): warning C4996: 'FProperty::ExportTextItem': Please use ExportTextItem_InContainer or ExportTextItem_Direct instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+  [7/10] Compile Pandemonium.cpp
+  [8/10] Link UnrealEditor-Pandemonium.lib
+     Creating library C:\Users\jenny\OneDrive\Documents\GitHub\SDP_Pandemonium\Pandemonium\Intermediate\Build\Win64\UnrealEditor\Development\Pandemonium\UnrealEditor-Pandemonium.lib and object C:\Users\jenny\OneDrive\Documents\GitHub\SDP_Pandemonium\Pandemonium\Intermediate\Build\Win64\UnrealEditor\Development\Pandemonium\UnrealEditor-Pandemonium.exp
+  [9/10] Link UnrealEditor-Pandemonium.dll
+     Creating library C:\Users\jenny\OneDrive\Documents\GitHub\SDP_Pandemonium\Pandemonium\Intermediate\Build\Win64\UnrealEditor\Development\Pandemonium\UnrealEditor-Pandemonium.suppressed.lib and object C:\Users\jenny\OneDrive\Documents\GitHub\SDP_Pandemonium\Pandemonium\Intermediate\Build\Win64\UnrealEditor\Development\Pandemonium\UnrealEditor-Pandemonium.suppressed.exp
+  [10/10] WriteMetadata PandemoniumEditor.target
+  Total time in Parallel executor: 44.15 seconds
+  Total execution time: 46.40 seconds

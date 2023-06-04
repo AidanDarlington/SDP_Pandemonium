@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Pandemonium.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\jenny\OneDrive\Documents\GitHub\SDP_Pandemonium\Pandemonium\Intermediate\Build\Win64\PandemoniumEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"C:\Users\jenny\OneDrive\Documents\GitHub\SDP_Pandemonium\Pandemonium\Intermediate\Build\Win64\UnrealEditor\Development\Pandemonium\CPP_LoadFeatures.gen.cpp.obj"
+"C:\Users\jenny\OneDrive\Documents\GitHub\SDP_Pandemonium\Pandemonium\Intermediate\Build\Win64\UnrealEditor\Development\Pandemonium\Pandemonium.init.gen.cpp.obj"
+"C:\Users\jenny\OneDrive\Documents\GitHub\SDP_Pandemonium\Pandemonium\Intermediate\Build\Win64\UnrealEditor\Development\Pandemonium\CPP_LoadFeatures.cpp.obj"
+"C:\Users\jenny\OneDrive\Documents\GitHub\SDP_Pandemonium\Pandemonium\Intermediate\Build\Win64\UnrealEditor\Development\Pandemonium\Pandemonium.cpp.obj"
+"C:\Users\jenny\OneDrive\Documents\GitHub\SDP_Pandemonium\Pandemonium\Intermediate\Build\Win64\UnrealEditor\Development\Pandemonium\CPP_PlayerLocationSave.cpp.obj"
+"C:\Users\jenny\OneDrive\Documents\GitHub\SDP_Pandemonium\Pandemonium\Intermediate\Build\Win64\UnrealEditor\Development\Pandemonium\Default.rc2.res"
+/OUT:"C:\Users\jenny\OneDrive\Documents\GitHub\SDP_Pandemonium\Pandemonium\Intermediate\Build\Win64\UnrealEditor\Development\Pandemonium\UnrealEditor-Pandemonium.lib"
