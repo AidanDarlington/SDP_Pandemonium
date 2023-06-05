@@ -2,12 +2,20 @@
 	"Targets": [
 		{
 			"Name": "Pandemonium",
+<<<<<<< Updated upstream
 			"Path": "C:\\Users\\wjust\\Documents\\GitHub\\SDP_Pandemonium\\Pandemonium\\Source\\Pandemonium.Target.cs",
+=======
+			"Path": "C:\\Users\\theha\\Desktop\\AUT\\SDP_Pandemonium\\Pandemonium\\Source\\Pandemonium.Target.cs",
+>>>>>>> Stashed changes
 			"Type": "Game"
 		},
 		{
 			"Name": "PandemoniumEditor",
+<<<<<<< Updated upstream
 			"Path": "C:\\Users\\wjust\\Documents\\GitHub\\SDP_Pandemonium\\Pandemonium\\Source\\PandemoniumEditor.Target.cs",
+=======
+			"Path": "C:\\Users\\theha\\Desktop\\AUT\\SDP_Pandemonium\\Pandemonium\\Source\\PandemoniumEditor.Target.cs",
+>>>>>>> Stashed changes
 			"Type": "Editor"
 		}
 	]
