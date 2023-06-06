@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\socce\\documents\\github\\sdp_pandemonium\\pandemonium\\source\\pandemonium\\private\\cpp_playerlocationsave.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\socce\\documents\\github\\sdp_pandemonium\\pandemonium\\intermediate\\build\\win64\\pandemoniumeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\socce\\documents\\github\\sdp_pandemonium\\pandemonium\\intermediate\\build\\win64\\unrealeditor\\development\\pandemonium\\definitions.pandemonium.h",
+            "c:\\users\\socce\\documents\\github\\sdp_pandemonium\\pandemonium\\source\\pandemonium\\public\\cpp_playerlocationsave.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
