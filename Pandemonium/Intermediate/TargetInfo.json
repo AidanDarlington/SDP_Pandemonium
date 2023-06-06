@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Pandemonium",
+			"Path": "C:\\Users\\GGPC\\SDP_Pandemonium\\Pandemonium\\Source\\Pandemonium.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PandemoniumEditor",
+			"Path": "C:\\Users\\GGPC\\SDP_Pandemonium\\Pandemonium\\Source\\PandemoniumEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
